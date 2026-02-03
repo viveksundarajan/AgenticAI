@@ -8,7 +8,7 @@ class MCPInstance:
     os.environ["JIRA_URL"] = "https://viveksvvek.atlassian.net"
     os.environ["JIRA_USERNAME"] = "viveksvvek@gmail.com"
     os.environ[
-        "JIRA_API_TOKEN"] = "ATATT3xFfGF0vxwF2O98p5lIEXSuZw4Oa4oKcfrA_aRbvaMM-dzTctz6thihQ6A45HOa9h6J1_M7u_VHmE16P26fE-mxMbp_HSDrrhBR_68pZ-xJWa77oRnmQ2YFFbMi8NIEOcqDAEiuACed-_sbE0y2WZneTOyYQZBO0e9ztdnMrg9YTEz60F4=A323121F"
+        "JIRA_API_TOKEN"] = "JIRA_API_TOKEN"
     os.environ["JIRA_PROJECTS_FILTER"] = "AIAG"
     mcp_session.DEFAULT_TIMEOUT = 120
 
