@@ -1,0 +1,17 @@
+# Test Scenario Automation Log for AIAG-1
+
+## Summary
+Automated test scenarios executed using Playwright for the user story AIAG-1.
+
+### Test Steps Executed:
+1. **Navigate to** https://www.google.com/
+   - Result: Successful
+
+2. **Enter** "Condor Flugdienst" in the search box
+   - Result: Successfully entered
+
+3. **Click the first link from the search results**
+   - Result: Successfully navigated to Condor website
+
+4. **Verify Condor logo presence**
+   - Result: Condor logo is visible, test passed.

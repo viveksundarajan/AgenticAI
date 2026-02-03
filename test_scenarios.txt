@@ -1,0 +1,18 @@
+Test Case ID: AIAG-1
+Summary: Open Condor application from Google search
+
+1. Open Google Home Page
+   Action: Navigate to "https://www.google.com"
+   Expected Outcome: Google home page is displayed with the title "Google".
+
+2. Enter Search Term
+   Action: In the search box, enter "Condor Flugdienst" and press Enter.
+   Expected Outcome: Search results related to "Condor Flugdienst" are displayed.
+
+3. Click on the First Link
+   Action: Click on the first link from the search results.
+   Expected Outcome: The Condor page is launched.
+
+4. Verify Condor Page
+   Action: Check if the Condor logo is present on the page.
+   Expected Outcome: The Condor logo is visible.

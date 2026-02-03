@@ -1,0 +1,17 @@
+# Test Scenario for User Story AIAG-1
+
+## Test Case ID: AIAG-1
+### Summary: Open Condor application from Google search
+
+### Test Steps:
+1. Open the Google browser by navigating to the URL: https://www.google.com/
+   - **Expected Outcome:** The Google home page loads successfully.
+
+2. In the Google search box, enter "Condor Flugdienst" and press the Enter key.
+   - **Expected Outcome:** The search results for "Condor Flugdienst" are displayed.
+
+3. Click on the first link from the search results.
+   - **Expected Outcome:** The user is redirected to the Condor website.
+
+4. Verify that the Condor page has launched by checking if the Condor logo is present on the page.
+   - **Expected Outcome:** The Condor logo is visible, confirming that the page has loaded successfully.
